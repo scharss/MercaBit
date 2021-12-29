@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Payerc20</title>
+    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    <script src="https://unpkg.com/moralis/dist/moralis.js"></script>
+  </head>
+
+  <body>
+    <h1>Payerc20 Hello World!</h1>
+
+    <button id="btn-login">Payerc20 Metamask Login</button>
+    <button id="btn-logout">Logout</button>
+
+<button onclick="runcode()">Run code</button>
+<br><br>
+<script>
+function runcode(){
+Moralis.transfer({type: "erc20", 
+                 amount: Moralis.Units.Token("1", "18"), 
+                 receiver: "0xA2A7Fe661fD852AdcdF2DA4DA0455aD381Ddd26d",
+                 contractAddress: "0xFb9D667abcbc17985F90b5667202018Df04614b7"
+})
+}
+</script>
+
+
+    <script type="text/javascript" src="./paywithmercabits.js"></script>
+  </body>
+</html>
