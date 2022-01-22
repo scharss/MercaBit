@@ -1,0 +1,13 @@
+
+
+// SPDX-License-Identifier: MIT
+
+
+https://bscscan.com/tx/0xa1caa0fa5d5609363e1e0a0c68d1ee225c6c7a0c50ce425854b1de6e319fc110
+
+0x8eD2dd1f997F10E50d5dc836Ed1Ce06F0Db5804b
+
+
+
+Pancakeswap
+https://bscscan.com/tx/0x365aaa0c81c280c86ee983104610854412ede62a2399f9448a5381e1355666a3
