@@ -1,2 +1,6 @@
 # https://pancakeswap.finance/info/pool/0xe6480cb46afab9a590a8343351c9520853977825
 # https://pancakeswap.finance/swap?inputCurrency=0x8ed2dd1f997f10e50d5dc836ed1ce06f0db5804b&outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56
+
+Swap:
+
+https://pancakeswap.finance/swap?inputCurrency=0x8ed2dd1f997f10e50d5dc836ed1ce06f0db5804b&outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56
